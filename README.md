@@ -5,3 +5,5 @@ como la de los actuales programas
 # EN:
 With this Custom TkInter you can do fantastic and modern GUIS
 how in actual programs
+# Creditos/Credits para/to Codemy
+codemy.com
